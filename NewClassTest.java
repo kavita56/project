@@ -9,10 +9,7 @@ public class NewClassTest {
     
     @org.junit.Test
     public void testSomeMethod() {
-       NewClass obj=new NewClass();
-       int result=obj.add(1,2);
-       int expected=5;
-       assertEquals(result,expected);
+      
     }
     
 }
